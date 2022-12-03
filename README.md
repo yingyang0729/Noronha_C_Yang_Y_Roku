@@ -1,28 +1,23 @@
 # Noronha_C_Yang_Y_MusicMixer
-TODO: The repo is for Roku project, which is developed by Cristine De Noronha and Ying Yang. The idea is to make a musical sky with musical icons. In the repository it contains all the images, css file, html files and JS files etc. The final version of the project is in the "Final" folder.
+TODO: The repo is for Roku project, which is developed by Cristine De Noronha and Ying Yang. The idea is to make a musical Application to play music. In the repository it contains all the images, css file, html files and JS files etc. The time of making the whole APP is from level 3 to level 4.  
 
 
 ## Installation
 TODO: In the set up processing, it uses visual code for CSS and HTML5 and find ways on [MDN Web Docs](https://developer.mozilla.org/en-US/). They also learn JS knowledge from [Mozilla](https://developer.mozilla.org/fr/docs/Web/JavaScript).
-And they also use [Adobe Photoshop and Adobe Illustrator](https://www.adobe.com/ca_fr/).
+The key elements is finish by Java Script, AJAX and Vue JS.
 
 ## Usage
-TODO: The repo is for Music Mixer project in 1055 Multimedia Authoring 2.
+TODO: The repo is for Level3 MMED3039 Multimedia Authoring 3 Ruko project.
 
 ## Contributing
 The contributors are Cristine De Noronha and Ying Yang. The whole process of the contribution is below.
 1. Cristine and Ying get together find inspirations of pictures and audios.
-2. Cristine designed most of images for the music mixer. 
-3. Ying designed the imagess of music elements for the project.
-4. Ying studied ways to include music in drag and drop her study is in the [dev.yy.checkpoint2/Cristine_Ying](https://github.com/crisdenoronha/Noronha_C_Yang_Y_MusicMixer/tree/main/dev.yy.checkpoint2/Cristine_Ying) folder.She wrote the first version of JS and CSS.
-5. Cristine did layout studies and her files are in the [CSS_study](https://github.com/crisdenoronha/Noronha_C_Yang_Y_MusicMixer/tree/dev.cdn.css) folder.
+2. Cristine designed most of images for the Ruko APP. She completes all design works before Nov. 3th 2022. Her design works is in [dev.yy.checkpoint2/Cristine_Ying](https://github.com/crisdenoronha/Noronha_C_Yang_Y_MusicMixer/tree/main/dev.yy.checkpoint2/Cristine_Ying) folder.She wrote the first version of JS and CSS.
+3. Ying sets up repo. She also sets up the basic structure of APP with JS, AJAX and VUE JS befor Nov. 3th 2022. Ying studied ways to include music in drag and drop her study is in the [dev.yy.checkpoint2/Cristine_Ying](https://github.com/crisdenoronha/Noronha_C_Yang_Y_MusicMixer/tree/main/dev.yy.checkpoint2/Cristine_Ying) folder.She wrote the first version of JS and CSS.
 
-6. Cristine changed and improve the JS as the final version (click a box without a icon, the icon returns to the box).
-
-7. Ying wrote the readme file and merged everything. The final version of the project is in the "Final" folder.
 
 ## History
-TODO: They have a timetable to do the music mixer. They finish 80% design for music mixer before week 8. The music mixer is a good project for them to practice JS and they finish all JS before due date April 13th.
+TODO: They have a timetable to do the Ruko project. 
 
 ## Credits
 TODO: The music mixer is about 20% for credits in the course.
