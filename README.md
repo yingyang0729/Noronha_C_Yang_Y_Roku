@@ -17,8 +17,8 @@ The contributors are Cristine De Noronha and Ying Yang. The whole process of the
 
 
 ## Prototypes
-Mobile<br>
-Desktop
+[Mobile Prototype](https://www.figma.com/proto/V1FSaix5ZvekSP3oELv5Z8/ROKU?page-id=0%3A1&node-id=7%3A292&viewport=2046%2C2589%2C0.25&scaling=scale-down&starting-point-node-id=7%3A292).<br>
+[Desktop Prototype](https://www.figma.com/proto/V1FSaix5ZvekSP3oELv5Z8/ROKU?page-id=39%3A14741&node-id=39%3A14744&viewport=728%2C474%2C0.15&scaling=scale-down&starting-point-node-id=39%3A14744)
 
 ## Credits
 TODO: The music mixer is about 20% for credits in the course.
