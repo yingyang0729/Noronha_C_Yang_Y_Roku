@@ -16,8 +16,9 @@ The contributors are Cristine De Noronha and Ying Yang. The whole process of the
 3. Ying sets up repo. She also wrote the develop idea about the Ruko [Google Drive Devlopment](https://docs.google.com/presentation/d/1EfzWlm4qpwwJbzJLUvZhMMSo_4te_uSK/edit#slide=id.p1). The dev notes also can see the file in Github [dev Note](https://github.com/yingyang0729/Noronha_C_Yang_Y_Roku/blob/main/Dev_Note/Dev%20Note.pdf).
 
 
-## History
-TODO: They have a timetable to do the Ruko project. 
+## Prototypes
+Mobile<br>
+Desktop
 
 ## Credits
 TODO: The music mixer is about 20% for credits in the course.
