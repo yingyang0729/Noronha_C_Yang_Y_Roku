@@ -22,9 +22,9 @@ Program used: FIGMA<br>
 [Desktop Prototype](https://www.figma.com/proto/V1FSaix5ZvekSP3oELv5Z8/ROKU?page-id=39%3A14741&node-id=39%3A14744&viewport=728%2C474%2C0.15&scaling=scale-down&starting-point-node-id=39%3A14744)
 
 ## Credits
-TODO: The music mixer is about 20% for credits in the course.
+
 
 ## License
-TODO: Fanshawe College-Interative Media Design-Level 2
+TODO: Fanshawe College-Interative Media Design-Level 3
 
 
